@@ -1,3 +1,5 @@
+> DEPRECATED: This repository has been merged into https://github.com/FrederikGoovaerts/AdventOfCode
+
 # Advent of Code 2022 solution
 
 My [Advent of Code](https://adventofcode.com) solutions for the 2022 edition. This year, the solutions will be written in Golang.
